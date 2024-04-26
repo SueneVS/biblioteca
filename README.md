@@ -1,4 +1,4 @@
-Educ
+
 
 Atividade desenvolvida durante o curso FullStack [Education] - FMT
 
